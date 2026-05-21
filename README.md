@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎓 3rd Year B.Tech Student at Indian Institute of Information Technology, Nagpur (IIITN)<br>💻 Passionate about Software Development & Full Stack Engineering<br>🚀 Building scalable web applications and real-world projects<br>🧠 Strong interest in Data Structures & Algorithms and problem solving<br>⚡ Focused on writing clean, efficient, and maintainable code<br><br>What I Do<br>🔨 Develop full-stack applications (frontend + backend integration)<br>🌐 Work with REST APIs and authentication systems<br>📦 Deploy projects using platforms like Render / Vercel<br>🧩 Solved over 500+ DSA problems to strengthen core logic</p>
+<p align="left">🎓 3rd Year B.Tech Student at Indian Institute of Information Technology, Nagpur (IIITN)<br>💻 Passionate about Software Development & Full Stack Engineering<br>🚀 Building scalable web applications and real-world projects<br>🧠 Strong interest in Data Structures & Algorithms and problem solving<br>⚡ Focused on writing clean, efficient, and maintainable code<br><br>What I Do<br>🔨 Develop full-stack applications (frontend + backend integration)<br>🌐 Work with REST APIs and authentication systems<br>📦 Deploy projects using platforms like Render / Vercel<br>🧩 Solved over 600+ DSA problems to strengthen core logic</p>
 
 ###
 
